@@ -1,0 +1,62 @@
+h1{color: black;}
+h2{color: brown;}
+h3{color:black;}
+body{background-color:bisque;}
+p{color: black;}
+body{padding: 20%;}
+body{padding-top: 5%;}
+body{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: large; }
+#mainheader{
+    background-image: url(05.jpg); height:fit-content;  background-size: cover; 
+    text-align: center; 
+    padding: 10%;
+    background-repeat: no-repeat;
+    width: auto;
+    @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Lato',sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+ul {
+list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+h1,
+h2 {
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 10px 0;
+}
+
+p {
+    margin: 10px 0;   
+}
+
+img {
+    width: 100%;
+}
+
+.navbar {
+     background-color: #047aed;
+     color: #fff;
+     height: 70px;
+
+}
+
+
+}
+ul{list-style-type:none;}
